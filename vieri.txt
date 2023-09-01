@@ -1,0 +1,9 @@
+ini file dari branch vieri
+
+git branch -> menampilkan brach yang ada di lokal
+
+git branch nama_branch -> untuk membuat branch baru
+
+git checkout nama_branch -> untuk berpindah satu branch ke branch lain
+
+git checkout -b nama_branch -> untuk membuat branch baru sekaligus berpindah ke branch tersebut. 
